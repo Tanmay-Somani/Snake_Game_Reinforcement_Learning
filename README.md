@@ -8,5 +8,5 @@ This project uses reinforcement learning to train agents to play a variety of cl
 - Evaluation of agent performance across different games
 
 ## Available Games
-1. **Super Mario Bros**: Folder Name: `super_mario_bros`
-2. **Snake Game**:Folder Name: 'Snake Game'
+1. **Super Mario Bros**
+2. **Snake Game**
